@@ -1,11 +1,12 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "hugo",
-  "buildCommand": "hugo --minify && npx pagefind --site public",
+  "buildCommand": "curl -sSL https://go.dev/dl/go1.22.2.linux-amd64.tar.gz -o /tmp/go.tar.gz && tar -C /usr/local -xzf /tmp/go.tar.gz && export PATH=/usr/local/go/bin:$PATH && export GOROOT=/usr/local/go && hugo --gc --minify && npx pagefind --site public",
   "outputDirectory": "public",
   "build": {
     "env": {
-      "HUGO_VERSION": "0.162.0"
+      "HUGO_VERSION": "0.162.0",
+      "GO_VERSION": "1.22.2"
     }
   }
 }
