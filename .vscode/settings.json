@@ -1,0 +1,23 @@
+{
+  "yaml.schemas": {},
+  "hugo.validate.frontMatter": false,
+  "frontMatter.taxonomy.customFields": [
+    {
+      "name": "url_code",
+      "title": "URL Code (GitHub)",
+      "type": "string"
+    },
+    {
+      "name": "url_project",
+      "title": "URL Project (Live Demo)",
+      "type": "string"
+    }
+  ],
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.customFields": [
+    {
+      "name": "url_code",
+      "title": "URL Code (GitHub)",
+      "type": "string"
+    },
+    {
+      "name": "url_project",
+      "title": "URL Project (Live Demo)",
+      "type": "string"
+    }
+  ],
+  "frontMatter.content.types": [
+    {
+      "name": "default",
+      "pageAhead": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Publishing Date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "Summary",
+          "name": "summary",
+          "type": "string"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "URL Code",
+          "name": "url_code",
+          "type": "string"
+        },
+        {
+          "title": "URL Project",
+          "name": "url_project",
+          "type": "string"
+        }
+      ]
+    }
+  ]
+}

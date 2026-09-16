@@ -1,0 +1,105 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Sanni Kumar Singh
+  given: Sanni
+  family: Singh
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals:
+  - MCA
+status:
+  icon: "💻"
+role: Full-Stack Developer
+bio: |
+  Sanni Kumar Singh is a Full-Stack Developer with hands-on experience developing scalable backend systems, real-time applications, CRM platforms, and AI-powered products using React.js, TypeScript, Node.js, PostgreSQL, and Prisma ORM.
+
+affiliations:
+  - name: UV Netware
+
+links:
+  - icon: at-symbol
+    url: mailto:ss7527767@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/13sanni
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/singhsanni13/
+
+interests:
+  - Full-Stack Development
+  - Distributed Systems
+  - Real-Time Applications
+  - Domain-Driven Design (DDD)
+
+education:
+  - degree: Master of Computer Applications
+    institution: JNCT Professional University, Bhopal
+    start: 2025-01-01
+    end: 2027-12-31
+    summary: |
+      Currently pursuing MCA with a focus on advanced software engineering and scalable backend architecture.
+  - degree: Bachelor of Computer Applications
+    institution: LNCT University, Bhopal
+    start: 2022-01-01
+    end: 2025-12-31
+
+experience:
+  - role: Software Developer Intern
+    org: UV Netware
+    start: 2026-02-01
+    end: 2026-05-31
+    summary: |
+      - Frontend: Built an infinite-canvas seat layout editor using React, Tailwind CSS, SVG, and Zustand. Implemented drag-and-drop, zoom/pan, and geometry-based seat generation tools.
+      - Backend: Developed RESTful APIs using Node.js and Express.js for venue, layout, and booking management. Designed PostgreSQL schemas for storing seating layouts and booking records.
+      - Implemented Redis-based distributed seat locking with TTL expiration to prevent race conditions during concurrent seat reservations.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: JavaScript
+        level: 5
+      - label: TypeScript
+        level: 5
+      - label: React.js
+        level: 5
+      - label: Node.js & Express
+        level: 5
+      - label: PostgreSQL & MongoDB
+        level: 4
+      - label: Redis
+        level: 4
+      - label: Tailwind CSS
+        level: 4
+  - name: Tools & Concepts
+    items:
+      - label: Git & GitHub
+        level: 5
+      - label: Docker
+        level: 4
+      - label: REST APIs
+        level: 5
+      - label: System Architecture
+        level: 4
+      - label: Caching & Distributed Workflows
+        level: 4
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
+  - name: Hindi
+    level: 5
+    label: Native
+
+# Awards & Certifications (ready for future entries)
+# Example format to add certificates:
+# awards:
+#   - title: Certificate or Award Title
+#     awarder: Organization / Issuer
+#     date: 2026-01-01
+#     summary: Description of certificate or achievement.
+#     certificate_url: https://example.com/certificate.pdf
+awards: []
