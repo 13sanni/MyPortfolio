@@ -17,8 +17,11 @@ tags:
   - bcrypt
   - React Router
   - React Toastify
-url_code: "https://github.com/13sanni/Forever-e.comm"
-url_project: "https://forever-frontend-sigma-one.vercel.app"
+links:
+  - type: code
+    url: "https://github.com/13sanni/Forever-e.comm"
+  - type: site
+    url: "https://forever-frontend-sigma-one.vercel.app"
 ---
 
 - Built a three-part e-commerce system with frontend, admin, and backend apps.

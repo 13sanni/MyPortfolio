@@ -10,8 +10,11 @@ tags:
   - Prisma ORM
   - Redis
   - LangGraph
-url_code: "https://github.com/13sanni/AI-StartUp-Validation-Platform"
-url_project: "https://ai-start-up-validation-platform-htf.vercel.app/"
+links:
+  - type: code
+    url: "https://github.com/13sanni/AI-StartUp-Validation-Platform"
+  - type: site
+    url: "https://ai-start-up-validation-platform-htf.vercel.app/"
 ---
 
 - Developed an AI-powered startup validation platform that automates market research, competitor analysis, SWOT generation, MVP planning, and business feasibility assessment, helping founders evaluate startup ideas through data-driven insights.

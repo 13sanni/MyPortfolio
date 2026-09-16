@@ -18,8 +18,11 @@ tags:
   - Zod
   - Vercel
   - Render
-url_code: "https://github.com/13sanni/GIGFLOW"
-url_project: "https://gigflow-azure.vercel.app"
+links:
+  - type: code
+    url: "https://github.com/13sanni/GIGFLOW"
+  - type: site
+    url: "https://gigflow-azure.vercel.app"
 ---
 
 - Built a full-stack freelance marketplace with gig creation, browsing, detailed gig pages, and bidding flows.

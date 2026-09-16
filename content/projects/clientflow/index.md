@@ -9,8 +9,11 @@ tags:
   - Express.js
   - PostgreSQL
   - Prisma ORM
-url_code: "https://github.com/13sanni/ClientFlowCRM"
-url_project: "https://client-flow-crm.vercel.app/"
+links:
+  - type: code
+    url: "https://github.com/13sanni/ClientFlowCRM"
+  - type: site
+    url: "https://client-flow-crm.vercel.app/"
 ---
 
 - Built a comprehensive CRM platform for managing clients, sales pipelines, invoices, tasks, notifications, and business analytics, enabling businesses to streamline customer relationship workflows.

@@ -20,8 +20,11 @@ tags:
   - Google Gemini API
   - Formik
   - Yup
-url_code: "https://github.com/13sanni/bazzar-blend"
-url_project: "https://bazzar-blend.vercel.app/"
+links:
+  - type: code
+    url: "https://github.com/13sanni/bazzar-blend"
+  - type: site
+    url: "https://bazzar-blend.vercel.app/"
 ---
 
 - Built a feature-rich marketplace with customer storefront, seller dashboard, and admin dashboard.

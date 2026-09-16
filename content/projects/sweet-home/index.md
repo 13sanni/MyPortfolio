@@ -15,8 +15,11 @@ tags:
   - Nodemailer
   - Axios
   - Tailwind CSS
-url_code: "https://github.com/13sanni/SWEET-HOME"
-url_project: "https://sweet-home-theta.vercel.app/"
+links:
+  - type: code
+    url: "https://github.com/13sanni/SWEET-HOME"
+  - type: site
+    url: "https://sweet-home-theta.vercel.app/"
 ---
 
 - Built a MERN-style hotel booking app with separate frontend and backend deployments.
